@@ -19,7 +19,7 @@ Dynamic book pricing with stackable decorators:
 
 ## Requirements
 
-- Java 21 (OpenJDK)
+- Java 17 (OpenJDK)
 - Maven 3.6+
 
 ## Build & Run

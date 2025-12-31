@@ -1,5 +1,5 @@
 @echo off
-set JAVA_HOME=C:\Program Files\Eclipse Adoptium\jdk-21.0.9.10-hotspot
+set JAVA_HOME=C:\Program Files\Amazon Corretto\jdk17.0.17_10
 set PATH=%JAVA_HOME%\bin;%PATH%
 if "%1"=="" (
     mvn spring-boot:run
